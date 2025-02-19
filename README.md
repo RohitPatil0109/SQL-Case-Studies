@@ -9,9 +9,8 @@ Case Study 1:- Data Bank <br />
     Customers of Data Bank receive cloud data storage allotments that are directly related to the balances in their accounts. <br /> 
     The Data Bank team needs your assistance since this business model has some intriguing drawbacks. <br />
     This case study focuses on metrics calculations, business growth, and smart data analysis to assist the company in more accurately estimating and planning for the future. <br />
+<br />
 
-<br />
-<br />
 
 Case Study 2:- Data Mart <br />
     This project analyzes the sales performance of Data Mart before and after the transition to sustainable packaging in June 2020. <br />
