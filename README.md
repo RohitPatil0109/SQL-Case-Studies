@@ -1,8 +1,8 @@
 # SQL-Case-Studies
 
 This repository contains 2 Case Studies to showcase my SQL skills:
-1.) Data Bank 
-2.) Data Mart
+1.) Data Bank <br />
+2.) Data Mart <br />
 
 Case Study 1:- Data Bank
     Neo-Banks are a recent development in the financial sector; they are new banks that solely operate online. 
